@@ -84,14 +84,6 @@ This is the current Base URL
 
 #         dd(\Route::getCurrentRoute()->getName());
 
-# For Farhan Only
-            "@php -r \"file_exists('config/app.php.example') || copy('config/app.php.example', 'config/app.php');\"",
-            "@php -r \"file_exists('config/database.php.example') || copy('config/database.php.example', 'config/database.php');\"",
-            "@php -r \"file_exists('config/notification.php.example') || copy('config/notification.php.example', 'config/notification.php');\"",
-            "@php -r \"file_exists('public/.htaccess.example') || copy('public/.htaccess.example', 'public/.htaccess');\"",
-            "@php -r \"file_exists('public/index.php.example') || copy('public/index.php.example', 'public/index.php');\"",
-            "@php -r \"file_exists('.htaccess.example') || copy('.htaccess.example', '.htaccess');\"",
-            "@php -r \"file_exists('index.php.example') || copy('index.php.example', 'index.php');\""
 
 
 # migration alternative 
