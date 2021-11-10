@@ -12,8 +12,9 @@ A user maximum review on our side five times per day.
 ### Installation
 
 - Download or clone the code from repository.
-- Unzip the zip file or Run this command to clone.
-      - git clone https://github.com/FARHAN-TANVIR-7471/product_review.git
+- Unzip the zip file or Run this command to clone
+
+    git clone https://github.com/FARHAN-TANVIR-7471/product_review.git
 
 - Composer update.
 - Open browser; goto [localhost/phpmyadmin](http://localhost/phpmyadmin).
