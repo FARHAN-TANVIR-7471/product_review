@@ -16,10 +16,10 @@ Unzip the zip file or Run this command to clone
 
     git clone https://github.com/FARHAN-TANVIR-7471/product_review.git
 
-
+Composer update
 Open browser; goto [localhost/phpmyadmin](http://localhost/phpmyadmin).
 
-Create a database with name **areview** and import the file **areview.sql** in that database
+Create a database with name **review** or import the file **DB\review.sql** in that database
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -52,13 +52,6 @@ import database
     
 
 ## Rename Some file
-    LINUX
-      - cd www
-      - cp index.php.example index.php
-      - cp .htaccess.example .htaccess
-      - cd public
-      - cp index.php.example index.php
-      - cp .htaccess.example .htaccess
 
     WINDOWS
       - root folder
