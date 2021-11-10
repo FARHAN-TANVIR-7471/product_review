@@ -17,7 +17,7 @@ A user maximum review on our side five times per day.
     git clone https://github.com/FARHAN-TANVIR-7471/product_review.git
 
 - Composer update
-- Rename .env.example to .env
+- Rename .env.example file to .env and provide necessary credentials.
 - Open browser; goto [localhost/phpmyadmin](http://localhost/phpmyadmin).
 - Create a database with name **review** and import the file **DB\review.sql** in that database
 
