@@ -47,10 +47,10 @@ MySQL Details
 
 then
 
-<!-- import database
+import database
 
       localhost:5003/phpmyadmin    
-     -->
+    
     
 
 <!-- ## Rename Some file
