@@ -16,11 +16,11 @@ A user maximum review on our side five times per day.
 
     git clone https://github.com/FARHAN-TANVIR-7471/product_review.git
 
-- Composer update.
-
+- Composer update
+- Rename .env.example to .env
 - Open browser; goto [localhost/phpmyadmin](http://localhost/phpmyadmin).
+- Create a database with name **review** and import the file **DB\review.sql** in that database
 
-- Create a database with name **review** or import the file **DB\review.sql** in that database
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -52,7 +52,7 @@ import database
     
     
 
-## Rename Some file
+<!-- ## Rename Some file
 
     WINDOWS
       - root folder
@@ -63,7 +63,7 @@ import database
       - copy .htaccess.example .htaccess
       - cd config
       - copy app.php.example app.php
-      - copy database.php.example database.php
+      - copy database.php.example database.php -->
 
 ## Base URL
 
