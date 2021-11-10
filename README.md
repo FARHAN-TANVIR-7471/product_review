@@ -1,12 +1,13 @@
 
 # Project Title
 
-ALESHA TECH - ALESHA TECH - LMS 
-######LEARNING MANAGEMENT SYSTEM
+Fake Review Identification
 
-## Getting Started
+## Introduction
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+A fake review can destroy the audience base. Cause all audiences actually buy products/services based on review. So fake reviews can damage the credibility of a platform substantially.
+
+A user maximum review on our side five times per day. 
 
 ## Installation
 
