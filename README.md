@@ -7,7 +7,7 @@ Fake Review Identification
 
 A fake review can destroy the audience base. Cause all audiences actually buy products/services based on review. So fake reviews can damage the credibility of a platform substantially.
 
-A user maximum review on our side five times per day. 
+**A user maximum review on our side five times per day.** 
 
 ## Installation
 
