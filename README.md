@@ -77,20 +77,3 @@ This is the current Base URL
 
     http://localhost:8000/
     
-    
-  
-# Note: Check GD library installed. Try to upload a image.
-
-
-#         dd(\Route::getCurrentRoute()->getName());
-
-
-
-# migration alternative 
-https://laravel.com/docs/8.x/migrations#squashing-migrations
-
-
-Model namespace
-``` use Kyslik\ColumnSortable\Sortable; ```
-inside model
-```use Sortable;```
